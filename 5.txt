@@ -1,13 +1,1 @@
-<<<<<<< HEAD
 5
-asdasd
-
-asd
-ads
-a
-ds
-da
-dasdasdasdads
-=======
-5
->>>>>>> 20401455ddfa06674f4aeb573e15b6b6932ac115
